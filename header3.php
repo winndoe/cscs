@@ -1,12 +1,3 @@
-<?php
-
-if (!defined('BY')) {
-
-    die('Access Denied');
-
-}
-
-?>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
 
